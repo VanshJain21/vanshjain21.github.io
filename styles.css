@@ -1,0 +1,46 @@
+
+.Title {
+    background: fuchsia;
+    border: 5px solid green 
+  }
+  
+  #heading {
+    font-family: Comic Sans MS;
+    color:blue;
+    background-image: url('Images/Skateboarding.jpg');
+    text-align: center;
+  }
+  #hobbies1 {
+    width: 50%;
+    height: 100px;
+    float:left;
+    background: blanchedalmond; 
+    
+  }
+  #hobbies2 {
+    height: 100px;
+    margin-left: 50%;
+    background: palevioletred;
+  
+  
+  }
+  #subheading {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+    background-color:white;
+  }
+  
+  #table {
+    border: 2px solid cyan;
+    text-align: center; 
+    width: 1000px; 
+    border-collapse: collapse; 
+    margin-left: auto; 
+    margin-right: auto;
+    height: 150px;
+  }
+  
+  .center {
+    margin-left: 25%; 
+  }
+  
